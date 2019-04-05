@@ -1,6 +1,8 @@
 # Chaillot-Barnabe-energie-autrement
 Codes and documents created by Chaillot Barnabé about his efficient energy system.
 
+[![L'énergie autrement](https://2.bp.blogspot.com/-37C58Ev0NcY/Wjg4231exwI/AAAAAAAAEfc/rdqyYdW8au8mQy9cvi5XGy0c6nIA-D58gCLcBGAs/s1600/Episode%2B27%2Bpolenta%2Bversion%2Blongue.mp4.Image%2Bfixe001.jpg)](https://2.bp.blogspot.com/-37C58Ev0NcY/Wjg4231exwI/AAAAAAAAEfc/rdqyYdW8au8mQy9cvi5XGy0c6nIA-D58gCLcBGAs/s1600/Episode%2B27%2Bpolenta%2Bversion%2Blongue.mp4.Image%2Bfixe001.jpg)
+
 ## Summary
 In this repository you will find the codes and the documents created by Chaillot Barnabé, sorted by youtube videos. The videos are linked below :
 
@@ -19,3 +21,7 @@ You can watch his youtbe channel :
 
 And visit his website :
 * [energie-autrement.blogspot.com](http://energie-autrement.blogspot.com)
+
+[![L'énergie autrement](https://1.bp.blogspot.com/-uGlC5CRne6o/WgIuYOVvFSI/AAAAAAAAEa4/E7Tw41VfT9EEOFrBL-e-dAoymXVSpGzWwCLcBGAs/s1600/raptor%2B%25C3%25A9quilibr%25C3%25A9.jpg)](https://1.bp.blogspot.com/-uGlC5CRne6o/WgIuYOVvFSI/AAAAAAAAEa4/E7Tw41VfT9EEOFrBL-e-dAoymXVSpGzWwCLcBGAs/s1600/raptor%2B%25C3%25A9quilibr%25C3%25A9.jpg)
+
+
